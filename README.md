@@ -1,4 +1,4 @@
-three.js
+three.js2
 ========
 
 [![NPM Package][npm]][npm-url]
